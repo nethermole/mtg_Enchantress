@@ -110,7 +110,8 @@
         "land": 35,
         "sorcery": 7,
         "notes": [
-            "One less creature if you don't count Thassa"
+            "-1 creature if you don't count Thassa",
+            "+1 creature if you count treachery"
         ],
         "enchantressEffectCount": 7,
         "enchantressEffectList": [
