@@ -111,7 +111,17 @@
         "land": 35,
         "sorcery": 7,
         "notes": [
-            "Only 38 creatures if you don't count Thassa"
+            "One less creature if you don't count Thassa"
+        ],
+        "enchantressEffectCount": 7,
+        "enchantressEffectList": [
+            "Argothian Enchantress",
+            "Eidolon of Blossoms",
+            "Enchantress' Presence",
+            "Mesa Enchantress",
+            "Satyr Enchanter",
+            "Tuvasa the Sunlit",
+            "Verduran Enchantress"
         ]
     }
 }
