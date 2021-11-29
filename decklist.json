@@ -1,7 +1,7 @@
 {
     "name": "Enchantress",
     "cardList": [
-        "Ardarkar Wastes",
+        "Adarkar Wastes",
         "Argothian Enchantress",
         "Arid Mesa",
         "Aura of Silence",
@@ -9,7 +9,6 @@
         "Birds of Paradise",
         "Breeding Pool",
         "Brushland",
-        "Burgeoning",
         "Calming Verse",
         "Carpet of Flowers",
         "Cast Out",
@@ -19,7 +18,7 @@
         "Courser of Kruphix",
         "Eidolon of Blossoms",
         "Enchanted Evening",
-        "Enchantress' Presence",
+        "Enchantress's Presence",
         "Energy Flux",
         "Enlightened Tutor",
         "Estrid's Invocation",
@@ -28,10 +27,7 @@
         "Flooded Strand",
         "Force of Vigor",
         "Force of Will",
-        "Forest",
-        "Forest",
-        "Forest",
-        "Forest",
+        "4 Forest",
         "Ghostly Prison",
         "Greater Auramancy",
         "Green Sun's Zenith",
@@ -41,8 +37,7 @@
         "Heroic Intervention",
         "Humility",
         "Idyllic Tutor",
-        "Island",
-        "Island",
+        "2 Island",
         "Karmic Justice",
         "Krosan Verge",
         "Lavinia, Azorius Renegade",
@@ -64,7 +59,7 @@
         "Pact of Negation",
         "Parallax Wave",
         "Perplexing Chimera",
-        "Plains",
+        "1 Plains",
         "Polluted Delta",
         "Replenish",
         "Rest in Peace",
@@ -73,6 +68,7 @@
         "Savannah",
         "Scalding Tarn",
         "Search for Azcanta",
+        "Seeds of Innocence",
         "Serra's Sanctum",
         "Sigil of the Empty Throne",
         "Simic Growth Chamber",
@@ -101,27 +97,5 @@
         "Wooded Foothills",
         "Worldly Tutor",
         "Yavimaya Coast"
-    ],
-    "counts": {
-        "artifact": 4,
-        "creature": 12,
-        "enchantment": 39,
-        "instant": 7,
-        "land": 35,
-        "sorcery": 7,
-        "notes": [
-            "-1 creature if you don't count Thassa",
-            "+1 creature if you count Treachery"
-        ],
-        "enchantressEffectCount": 7,
-        "enchantressEffectList": [
-            "Argothian Enchantress",
-            "Eidolon of Blossoms",
-            "Enchantress' Presence",
-            "Mesa Enchantress",
-            "Satyr Enchanter",
-            "Tuvasa the Sunlit",
-            "Verduran Enchantress"
-        ]
-    }
+    ]
 }
